@@ -2,9 +2,8 @@
 | Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax|                                                                    
 |-------------------------------------------------------------------------------------------------------|
   
-  
-|Fix      | Drush commands refactoring: acquia:contenthub-connect-site, acquia:contenthub-disconnect-site, acquia:contenthub-webhooks|
-| :---:|:------|
+|Fix | Drush commands refactoring: acquia:contenthub-connect-site, acquia:contenthub-disconnect-site, acquia:contenthub-webhooks|
+<font color="green"> Some green text </font>
 |Change|Get timezone from Drupal and remove hard coded value|
 |Change|In function names, rename 'CDF' to 'Cdf'.|
 |Change|Recurssively find dependencies and make ModerationStateFieldItemList::generateSampleItems() return sane data.|
