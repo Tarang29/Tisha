@@ -4,7 +4,7 @@
 
 ```Fix```    Drush commands refactoring: `acquia:contenthub-connect-site,`  `acquia:contenthub-disconnect-site,`  ` acquia:contenthub-webhooks`
 
-```Change```  Get timezone from ![Drupal](https://www.drupal.com/) and remove hard coded value.
+```Change```  Get timezone from ![Drupal](https://Drupal.org/) and remove hard coded value.
 
 ```Change ``` In function names, rename 'CDF' to 'Cdf'.
 
