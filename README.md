@@ -1,5 +1,5 @@
-## acquia_contenthub 8.x-2.2 - 24 April,2017
-| Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax|                                                                    
+## Content Hub 8.x-2.2 - April 24,2017
+| The Content Hub 8.x-2.2 client for Drupal 8 ![download](https://www.drupal.org/project/acquia_contenthub/releases/8.x-2.2) contains the following updates:|                                                                    
 |-----------------------------------------------------------------------------------------------------------------------------|
 
 ```Fix```    Drush commands refactoring: `acquia:contenthub-connect-site,`  `acquia:contenthub-disconnect-site,`  ` acquia:contenthub-webhooks`
