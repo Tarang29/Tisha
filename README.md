@@ -23,5 +23,3 @@
 ```Change```  Added initial work for the new ``` import and export drush commands.```
 
 ```Feature``` Adding newest _discovery interface_ code.
-
-Click ![here](https://www.drupal.org/project/acquia_contenthub/releases/8.x-2.2) to Download.
