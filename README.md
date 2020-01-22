@@ -2,13 +2,7 @@
 | Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax Syntax|                                                                    
 |-----------------------------------------------------------------------------------------------------------------------------|
 
-```Fix```    Drush commands refactoring: 
-
-`$ acquia:contenthub-connect-site,`
-
-`$ acquia:contenthub-disconnect-site,` 
-
-`$ acquia:contenthub-webhooks`
+```Fix```    Drush commands refactoring: `$ acquia:contenthub-connect-site,``$ acquia:contenthub-disconnect-site,``$ acquia:contenthub-webhooks`
 
 ```Change```  Get timezone from Drupal and remove hard coded value.
 
