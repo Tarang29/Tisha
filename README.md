@@ -4,22 +4,22 @@
 
 ```Fix```    Drush commands refactoring: `acquia:contenthub-connect-site,`  `acquia:contenthub-disconnect-site,`  ` acquia:contenthub-webhooks`
 
-```Change```  Get timezone from [drupal](https://www.drupal.org) and remove hard coded value.
+```Feature```  Get timezone from [drupal](https://www.drupal.org) and remove hard coded value.
 
-```Change ``` In function names, rename '**`CDF`**' to 'Cdf'.
+```Change ``` _In function names_, rename **'CDF'** to **'Cdf'**.
 
-```Change```  Recurssively find dependencies and make ModerationStateFieldItemList::generateSampleItems() return sane data.
+```Change```  Recurssively find dependencies and make `ModerationStateFieldItemList::generateSampleItems()` return sane data.
 
-```Fix```     Entity Override Layout Builder support.
+```Feature```     Entity Override Layout Builder support.
 
-```Fix```     Better account warning in purge command and updated coding standards
+```Fix```     Better account warning in `purge` command and updated coding standards.
 
-```Fix```     Refactor content hub settings form.
+```Fix```     Refactor `content hub settings` form.
 
-```Fix```     Using reflection until core patch for issue #3046814 is reviewed.
+```Fix```     Using reflection until core patch for _issue #3046814_is reviewed.
 
-```Change```  Need to pass array_unique() to do a fair comparison.
+```Change```  Need to pass`array_unique()`to do a fair comparison.
 
-```Change```  Added initial work for the new cdf import and export drush commands.
+```Change```  Added initial work for the new ``` import and export drush commands.```
 
-```Change```  Adding newest discovery interface cod.
+```Feature``` Adding newest _discovery interface_ code.
