@@ -6,7 +6,7 @@
 
 ```Change```  Get timezone from [drupal](https://www.drupal.org) and remove hard coded value.
 
-```Change ``` In function names, rename 'CDF' to 'Cdf'.
+```Change ``` In function names, rename '**`CDF`**' to 'Cdf'.
 
 ```Change```  Recurssively find dependencies and make ModerationStateFieldItemList::generateSampleItems() return sane data.
 
