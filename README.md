@@ -3,9 +3,9 @@
 |-------------------------------------------------------------------------------------------------------|
   
   
-| Fix      | Drush commands refactoring: acquia:contenthub-connect-site, acquia:contenthub-disconnect-site, acquia:contenthub-webhooks |
-| :---|:-------|
-| Change      |Get timezone from Drupal and remove hard coded value |
+Fix      | Drush commands refactoring: acquia:contenthub-connect-site, acquia:contenthub-disconnect-site, acquia:contenthub-webhooks
+ :---|:------
+ Change      |Get timezone from Drupal and remove hard coded value 
 |Change       |In function names, rename 'CDF' to 'Cdf'.|
 |Change       |Recurssively find dependencies and make ModerationStateFieldItemList::generateSampleItems() return sane data.|
 |Fix          |Entity Override Layout Builder support|
