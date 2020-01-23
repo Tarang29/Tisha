@@ -1,4 +1,7 @@
-## Content Hub 8.x-2.2 - April 24,2017
+***************************************
+Content Hub 8.x-2.2 - April 24,2017
+****************************************
+
 | The Content Hub 8.x-2.2 client for Drupal 8 ![download](https://www.drupal.org/project/acquia_contenthub/releases/8.x-2.2) contains the following updates:|                                                                    
 |-----------------------------------------------------------------------------------------------------------------------------|
 
@@ -24,6 +27,10 @@
 ```Fix```     Refactor `content hub settings` form.
 
 ```Fix```     Using reflection until core patch for _issue #3046814_is reviewed.
+
+.. _Python home page: http://www.python.org
+.. _link: `Python home page`_
+.. _Python: http://www.python.org
 
 
 
