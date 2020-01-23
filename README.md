@@ -18,9 +18,9 @@ Content Hub 8.x-2.2 - April 24,2017
 
 ```Change```  The `array_unique()` is used to do a fair comparison.
 
-```Change```  Initial work for the new ``` import and export drush commands``` is added.
+```Change```  Initial work for the new ``` import and export drush commands``` are added.
 
-```Feature```    Drush commands refactoring: 
+```Feature``` In this Release, following ```Drush``` commands are re-factored: 
 - `acquia:contenthub-connect-site,`helps to connect cleint to Content Hub.
 - `acquia:contenthub-disconnect-site,`helps to disconnect client from Content Hub.
 - ` acquia:contenthub-webhooks`to perform a webhook management operation.
