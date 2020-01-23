@@ -26,14 +26,3 @@ Content Hub 8.x-2.2 - April 24,2017
 ```Fix```     Refactor `content hub settings` form.
 
 ```Fix```     Using reflection until core patch for _issue #3046814_is reviewed.
-
-.. _Python home page: http://www.python.org
-.. _link: `Python home page`_
-.. _Python: http://www.python.org
-
-This is :red:`red !` And :blue:`this part is blue`.
-
-
-
-
-
